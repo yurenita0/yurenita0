@@ -90,7 +90,3 @@
 
 [![Email](https://img.shields.io/badge/Email-y.velasco.rico@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:y.velasco.rico@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yurena_Velasco_Rico-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurena-velasco-rico-40049626b/)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=yurenita0&icon=5&color=6&style=flat)
