@@ -1,6 +1,7 @@
 # ¡Hola! Soy **Yurena Velasco**
 
 **💻 Full Stack Developer | 🎨 Diseño UI/UX | 🤖 ML/AI Enthusiast**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurena-velasco-rico/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.velasco.rico@gmail.com)
 
