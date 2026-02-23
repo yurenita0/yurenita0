@@ -1,9 +1,7 @@
-# 👋 ¡Hola! Soy **Yurena Velasco Rico**
+# ¡Hola! Soy **Yurena Velasco**
 
 **💻 Full Stack Developer | 🎨 Diseño UI/UX | 🤖 ML/AI Enthusiast**
-
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/Yurenita0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurena-velasco-rico-40049626b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurena-velasco-rico/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.velasco.rico@gmail.com)
 
 ---
@@ -26,7 +24,7 @@
 | **Mobile** | Apps Android nativas con **Java + Android Studio** |
 | **Web Full Stack** | **Django**, WordPress, sitios corporativos, landing pages |
 | **Formación** | FP DAM (IES Sabadell) • 42 Barcelona (programación) • Cursos web |
-| **Idiomas** | Español (nativo) • Inglés (técnico-comercial) |
+| **Idiomas** | Español (nativo) • Inglés (técnico-comercial) |  • Catalan 
 | **Ubicación** | Barcelona, España |
 
 ---
@@ -73,14 +71,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurenita0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yurenita0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
