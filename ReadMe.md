@@ -1,114 +1,94 @@
-&lt;h1 align="center"&gt;👋 ¡Hola! Soy &lt;strong&gt;Yurena Velasco Rico&lt;/strong&gt;&lt;/h1&gt;
+# 👋 ¡Hola! Soy **Yurena Velasco Rico**
 
-&lt;p align="center"&gt;
-  &lt;strong&gt;💻 Full Stack Developer | 🎨 Diseño UI/UX | 🤖 ML/AI Enthusiast&lt;/strong&gt;
-&lt;/p&gt;
+**Desarrolladora Full Stack** | **Especialista Odoo** | **Diseño UI/UX** | **Barcelona, España**
 
-&lt;p align="center"&gt;
-  &lt;a href="https://bsky.app/profile/Yurenita0"&gt;
-    &lt;img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/yurena-velasco-rico-40049626b/"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/Yurenita0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurena-velasco-rico-40049626b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.velasco.rico@gmail.com)
 
 ---
 
 ## 🚀 Sobre Mí
 
-&gt; Desarrolladora apasionada por crear soluciones tecnológicas innovadoras. Especializada en desarrollo web full-stack, machine learning y diseño de interfaces. Busco constantemente nuevos retos que me permitan crecer profesionalmente y aportar valor real a los proyectos.
+&gt; Desarrolladora con **experiencia profesional en implementación de Odoo ERP**, creación de **módulos personalizados** y desarrollo web (WordPress, sitios corporativos). Formación técnica en **DAM (Desarrollo de Aplicaciones Multiplataforma)** en el IES Sabadell + formación en **42 Barcelona**. 
+
+&gt; Combino perfil **técnico y comercial**: entiendo las necesidades del negocio y las traduzco a soluciones digitales escalables. Actualmente en Barcelona, próximamente **Ingeniería Informática**.
+
+---
+
+## 💼 Experiencia & Especialización
+
+| Área | Detalle |
+|------|---------|
+| **ERP & Backend** | Desarrollo de módulos personalizados en **Odoo** (Python, PostgreSQL, XML) |
+| **Web Development** | WordPress, sitios corporativos, landing pages optimizadas |
+| **Formación** | FP DAM (IES Sabadell) • 42 Barcelona (programación) • Cursos de confección web |
+| **Idiomas** | Español (nativo) • Inglés (técnico-comercial) |
+| **Ubicación** | Barcelona, España |
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### **Lenguajes de Programación**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+### **Lenguajes**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### **Frameworks & Librerías**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+### **Frameworks & CMS**
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Bases de Datos & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### **Data Science & ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+### **Diseño & UI/UX**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
-### **Herramientas de Diseño**
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=flat-square&logo=prezi&logoColor=white)
-
-### **DevOps & Testing**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+### **DevOps & Herramientas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=yurenita0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/&gt;
-  &lt;img src="https://nirzak-streak-stats.vercel.app/?user=yurenita0&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/&gt;
-&lt;/p&gt;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurenita0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurenita0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/&gt;
-&lt;/p&gt;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yurenita0&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🎯 Proyectos Destacados
+## 🎯 Actualmente
 
-&lt;p align="center"&gt;
-  &lt;!-- Reemplaza 'nombre-repo' con tus repositorios reales --&gt;
-  &lt;a href="https://github.com/yurenita0/nombre-repo"&gt;
-    &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=yurenita0&repo=nombre-repo&theme=tokyonight&hide_border=true" alt="Repo 1"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/yurenita0/nombre-repo-2"&gt;
-    &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=yurenita0&repo=nombre-repo-2&theme=tokyonight&hide_border=true" alt="Repo 2"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+- 🔭 **Buscando nuevas oportunidades** como desarrolladora (Odoo, Full Stack, Backend Python/PHP)
+- 🌱 **Preparando acceso a Ingeniería Informática**
+- 👯 **Abierta a colaborar** en proyectos open source de Odoo o web
+- 💬 **Pregúntame sobre**: Implementación Odoo, optimización WordPress, desarrollo de módulos ERP
 
 ---
 
-## 📫 ¿Hablamos?
+## 📫 Contacto
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:y.velasco.rico@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/yurena-velasco-rico-40049626b/"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://bsky.app/profile/Yurenita0"&gt;
-    &lt;img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+¿Tienes un proyecto en mente o buscas alguien que entienda tanto de código como de negocio?
 
-&lt;p align="center"&gt;
-  &lt;img src="https://visitcount.itsvg.in/api?id=yurenita0&icon=5&color=6&style=flat" alt="Profile Views"/&gt;
-&lt;/p&gt;
+[![Email](https://img.shields.io/badge/Email-y.velasco.rico@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:y.velasco.rico@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yurena_Velasco_Rico-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurena-velasco-rico-40049626b/)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=yurenita0&icon=5&color=6&style=flat)
