@@ -1,13 +1,17 @@
-&lt;div align="center"&gt;
+&lt;h1 align="center"&gt;👋 ¡Hola! Soy &lt;strong&gt;Yurena Velasco Rico&lt;/strong&gt;&lt;/h1&gt;
 
-# 👋 ¡Hola! Soy **Yurena Velasco Rico**
+&lt;p align="center"&gt;
+  &lt;strong&gt;💻 Full Stack Developer | 🎨 Diseño UI/UX | 🤖 ML/AI Enthusiast&lt;/strong&gt;
+&lt;/p&gt;
 
-### 💻 Full Stack Developer | 🎨 Diseño UI/UX | 🤖 ML/AI Enthusiast
-
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=000000)](https://bsky.app/profile/Yurenita0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/yurena-velasco-rico-40049626b/)
-
-&lt;/div&gt;
+&lt;p align="center"&gt;
+  &lt;a href="https://bsky.app/profile/Yurenita0"&gt;
+    &lt;img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.linkedin.com/in/yurena-velasco-rico-40049626b/"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
@@ -45,15 +49,15 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nVIDIA&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ### **Herramientas de Diseño**
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat-square&logo=krita&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=flat-square&logo=Prezi&logoColor=white)
+![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=flat-square&logo=prezi&logoColor=white)
 
 ### **DevOps & Testing**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -66,41 +70,45 @@
 
 ## 📊 Estadísticas de GitHub
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=yurenita0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/&gt;
+  &lt;img src="https://nirzak-streak-stats.vercel.app/?user=yurenita0&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/&gt;
+&lt;/p&gt;
 
-| Estadísticas Generales | Racha de Contribuciones | Lenguajes Más Usados |
-|:---:|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurenita0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=300) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yurenita0&theme=tokyonight&hide_border=true&card_width=300) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurenita0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=300) |
-
-&lt;/div&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurenita0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/&gt;
+&lt;/p&gt;
 
 ---
 
 ## 🎯 Proyectos Destacados
 
-&lt;div align="center"&gt;
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurenita0&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/yurenita0/REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurenita0&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/yurenita0/REPO_NAME_2)
-
-&lt;/div&gt;
+&lt;p align="center"&gt;
+  &lt;!-- Reemplaza 'nombre-repo' con tus repositorios reales --&gt;
+  &lt;a href="https://github.com/yurenita0/nombre-repo"&gt;
+    &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=yurenita0&repo=nombre-repo&theme=tokyonight&hide_border=true" alt="Repo 1"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/yurenita0/nombre-repo-2"&gt;
+    &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=yurenita0&repo=nombre-repo-2&theme=tokyonight&hide_border=true" alt="Repo 2"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
 ## 📫 ¿Hablamos?
 
-&lt;div align="center"&gt;
+&lt;p align="center"&gt;
+  &lt;a href="mailto:y.velasco.rico@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://www.linkedin.com/in/yurena-velasco-rico-40049626b/"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
+  &lt;/a&gt;
+  &lt;a href="https://bsky.app/profile/Yurenita0"&gt;
+    &lt;img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurena-velasco-rico-40049626b/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/Yurenita0)
-
-&lt;/div&gt;
-
----
-
-&lt;div align="center"&gt;
-
-![Profile Views](https://visitcount.itsvg.in/api?id=yurenita0&icon=5&color=6&style=flat)
-
-&lt;/div&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://visitcount.itsvg.in/api?id=yurenita0&icon=5&color=6&style=flat" alt="Profile Views"/&gt;
+&lt;/p&gt;
